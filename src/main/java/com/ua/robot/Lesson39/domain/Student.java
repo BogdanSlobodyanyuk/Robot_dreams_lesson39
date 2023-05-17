@@ -1,4 +1,4 @@
-package com.ua.robot.domain;
+package com.ua.robot.Lesson39.domain;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

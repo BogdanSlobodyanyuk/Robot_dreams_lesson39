@@ -1,8 +1,8 @@
-package com.ua.robot.rest;
+package com.ua.robot.Lesson39.rest;
 
 
-import com.ua.robot.domain.Student;
-import com.ua.robot.service.TestService;
+import com.ua.robot.Lesson39.service.TestService;
+import com.ua.robot.Lesson39.domain.Student;
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;

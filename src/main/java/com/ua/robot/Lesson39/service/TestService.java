@@ -1,6 +1,6 @@
-package com.ua.robot.service;
+package com.ua.robot.Lesson39.service;
 
-import com.ua.robot.domain.Student;
+import com.ua.robot.Lesson39.domain.Student;
 import org.springframework.stereotype.Service;
 
 import java.util.ArrayList;
